@@ -265,6 +265,7 @@ linters:
         - ^github.com/mitchellh/mapstructure.DecoderConfig$
         - ^github.com/mymmrac/telego.+Parameters$
         - ^github.com/prometheus/client_golang/.+Opts$
+        - ^github.com/openai/openai-go/.+$
         - ^github.com/revrost/go-openrouter.+$
         - ^github.com/secsy/goftp.Config$
         - ^github.com/Shopify/sarama.Config$
